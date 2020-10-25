@@ -1,0 +1,8 @@
+{"command_name" : "Chapter", "command_text" : "\\chapter{...}\n"}
+{"command_name" : "Section", "command_text" : "\\section{}\n"}
+{"command_name" : "Subsection", "command_text" : "\\subsection{}\n"}
+{"command_name" : "Subsubsection", "command_text" : "\\subsubsection{}\n"}
+{"command_name" : "Item List", "command_text" : "\\begin{itemize}\n\\item ...\n\\item ...\n\\end{itemize}\n"}
+{"command_name" : "Enumeration List", "command_text" : "\\begin{enumerate}\n\\item ...\n\\item ...\n\\end{enumerate}\n"}
+{"command_name" : "Table", "command_text" : "\\begin{table}\n\\caption{....}\\label{...}\n\\begin{tabular}{|c|c|c|}\n\\hline\n... &...&...\\\\\n... &...&...\\\\\n... &...&...\\\\\n\\hline\n\\end{tabular}\n\\end{table}\n"}
+{"command_name" : "Figure", "command_text" : "\\begin{figure}\n\\includegraphics[width=...,height=...]{...}\n\\caption{....}\\label{...}\n\\end{figure}\n"}

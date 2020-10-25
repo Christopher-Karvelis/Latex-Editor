@@ -1,0 +1,5 @@
+{"document_type":"Empty", "illegal_commands" :[]}
+{"document_type":"Report", "illegal_commands" :[]}
+{"document_type":"Book", "illegal_commands" :[]}
+{"document_type":"Letter", "illegal_commands" :["Chapter", "Section", "Subsection","Subsubsection", "Item List", "Enumeration List","Table", "Figure"]}
+{"document_type":"Article", "illegal_commands" :["Chapter"]}
