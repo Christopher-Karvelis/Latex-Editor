@@ -6,9 +6,18 @@ The objective of this project is to develop a simple Latex editor for inexperien
 
 ## Menu
 <img align="left" src="https://user-images.githubusercontent.com/25777650/168738996-6fc30940-9d9c-4150-869c-670510bce5df.png">
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
-
-
+<br clear="right"/>
 ## Example
 ![latex_editor_example](https://user-images.githubusercontent.com/25777650/152688129-f0d1bbf6-41f1-494e-8a5d-44c910ca206c.png)
 
