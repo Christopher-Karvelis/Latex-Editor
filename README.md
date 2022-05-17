@@ -6,9 +6,9 @@ The objective of this project is to develop a simple Latex editor for inexperien
 
 ## Menu
 <img align="left" src="https://user-images.githubusercontent.com/25777650/168738996-6fc30940-9d9c-4150-869c-670510bce5df.png">
-1.
-2.
-3.
+1. Create a new empty document.
+2. Open an existing Latex document.
+3. 
 4.
 5.
 6.
@@ -16,6 +16,8 @@ The objective of this project is to develop a simple Latex editor for inexperien
 8.
 9.
 10.
+11.
+12.
 
 <br clear="left"/>
 
