@@ -7,17 +7,24 @@ The objective of this project is to develop a simple Latex editor for inexperien
 ## Menu
 <img align="left" src="https://user-images.githubusercontent.com/25777650/168738996-6fc30940-9d9c-4150-869c-670510bce5df.png">
 1. Create a new empty document.
-2. Open an existing Latex document.
-3. 
-4.
-5.
+
+2. Create document of the selected type.
+
+3. Open an existing Latex document.
+
+4. Save the current document
+
+5. Import Latex Command
+
 6.
+
 7.
-8.
-9.
-10.
-11.
-12.
+
+8. Return to previous version
+
+9. Export to PDF.
+
+10. Show socument metadata.
 
 <br clear="left"/>
 
