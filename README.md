@@ -17,7 +17,8 @@ The objective of this project is to develop a simple Latex editor for inexperien
 9.
 10.
 
-<br clear="right"/>
+<br clear="left"/>
+
 ## Example
 ![latex_editor_example](https://user-images.githubusercontent.com/25777650/152688129-f0d1bbf6-41f1-494e-8a5d-44c910ca206c.png)
 
