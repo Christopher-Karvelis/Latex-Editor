@@ -17,9 +17,9 @@ The objective of this project is to develop a simple Latex editor for inexperien
 
         5. Import Latex Command
 
-        6.
+        6. Sumbit Changes (Create a new version)
 
-        7.
+        7. Change Version Strategy
 
         8. Return to previous version
 
